@@ -50,6 +50,8 @@ An expansive repository that encapsulates the boundless world of software develo
 
 ## :rocket: React Hooks
 
+- [Modern hooks collection](https://usehooks.com/)
+
 ## :books: Libraries
 
 - [Tremor](https://www.tremor.so/)
