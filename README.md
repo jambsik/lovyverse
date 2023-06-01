@@ -1,10 +1,10 @@
 # Lovyverse
 
- An expansive repository that encapsulates the boundless world of software development and beyond. Created with an unwavering passion for code and inspired by the spirit of Lovy, the beloved canine companion, Lovyverse serves as a hub for developers, enthusiasts, and knowledge seekers. Dive into a constellation of curated resources, empowering documentation, expert tips, and thoughtfully collected gems ranging from frontend courses to Docker wizardry, alongside profiles of software gurus, design patterns, and must-have libraries. Immerse yourself in the Lovyverse and embark on a journey of discovery, innovation, and unconditional love for the art of coding.
+###### ⚠️ Disclaimer: Lovyverse is a curated compilation that brings together valuable resources and links to other notable repositories. It serves as a centralized hub to enhance your software development journey. Discover handpicked gems and explore the interconnected network of cool repositories within Lovyverse.
 
-<sub><sup>⚠️ Disclaimer: Lovyverse is a curated compilation that brings together valuable resources and links to other notable repositories. It serves as a centralized hub to enhance your software development journey. Discover handpicked gems and explore the interconnected network of cool repositories within Lovyverse.</sup></sub>
+An expansive repository that encapsulates the boundless world of software development and beyond. Created with an unwavering passion for code and inspired by the spirit of Lovy, the beloved canine companion, Lovyverse serves as a hub for developers, enthusiasts, and knowledge seekers. Dive into a constellation of curated resources, empowering documentation, expert tips, and thoughtfully collected gems ranging from frontend courses to Docker wizardry, alongside profiles of software gurus, design patterns, and must-have libraries. Immerse yourself in the Lovyverse and embark on a journey of discovery, innovation, and unconditional love for the art of coding.
 
-
+##### :chart_with_upwards_trend: Don't forget to always check the latest status of JS and other frameworks at: https://2022.stateofjs.com/en-US/
 
 ## Table of Contents
 
@@ -12,6 +12,7 @@
 - [:computer: Frontend Courses](#computer-frontend-courses)
 - [:microphone: Interviews](#microphone-interviews)
 - [:art: Design Patterns](#art-design-patterns)
+- [:rocket: React Hooks](#rocket-react-hooks)
 - [:books: Libraries](#books-libraries)
 - [:globe_with_meridians: Resources](#globe_with_meridians-resources)
 
@@ -46,6 +47,8 @@
 - [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
 - [Martin fowler patterns](https://martinfowler.com/eaaCatalog/)
 - [React patterns](https://medium.com/@shriharim006/react-design-patterns-80953f3822b5)
+
+## :rocket: React Hooks
 
 ## :books: Libraries
 
