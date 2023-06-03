@@ -53,8 +53,8 @@ An expansive repository that encapsulates the boundless world of software develo
 - [Modern hooks collection](https://usehooks.com/)
 
 ## :books: Libraries
-- [Tabler Icons] (https://tablericons.com/)
-- [Draw Images] (https://undraw.co/illustrations)
+- [Tabler Icons](https://tablericons.com/)
+- [Draw Images](https://undraw.co/illustrations)
 - [Tremor](https://www.tremor.so/)
 - [Playwright](https://playwright.dev/)
 - [Tailwindcss](https://tailwindcss.com/)
