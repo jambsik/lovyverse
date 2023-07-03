@@ -35,6 +35,7 @@ An expansive repository that encapsulates the boundless world of software develo
 - [FrontendMasters Typescript path](https://frontendmasters.com/learn/typescript/)
 - [FrontendMasters React path](https://frontendmasters.com/learn/react/)
 - [Pluralsight React and Redux](https://www.pluralsight.com/courses/react-redux-react-router-es6)
+- [Real Dev challanges](https://devchallenges.io/)
 
 ## :microphone: Interviews
 
