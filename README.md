@@ -74,6 +74,6 @@ An expansive repository that encapsulates the boundless world of software develo
 
 - [Medium](https://medium.com/tag/reactjs/top/year)
 - [Reddit](https://www.reddit.com/r/typescript/)
-- [KentC Blog](https://kentcdodds.com/blog)-
+- [KentC Blog](https://kentcdodds.com/blog)
 - [Design tools](https://www.toools.design/)
 - [View Transition api](https://developer.mozilla.org/en-US/docs/Web/API/View_Transitions_API)
